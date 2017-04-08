@@ -7,4 +7,3 @@ import tushare as ts
 "Learning how to update"
 "This is a change in my vitrual box!"
 "Test how to use the pull!"
-"Test how to use the pull2"
